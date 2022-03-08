@@ -1,0 +1,21 @@
+.facebook-area{
+	background-color: pink;
+}
+.header::after {
+	content: '';
+	clear: both;
+	display: block;
+}
+.container {
+	width: 70%;
+	margin: auto;
+}
+.logo-area{
+	width: 30%;
+	float: left;
+}.login-area {
+	width: 70%;
+	float: left;
+}
+.login-area form
+	
